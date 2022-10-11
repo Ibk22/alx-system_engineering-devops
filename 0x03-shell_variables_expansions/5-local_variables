@@ -1,1 +1,2 @@
-#!/bin/bashset | less
+#!/bin/bash
+set | less
